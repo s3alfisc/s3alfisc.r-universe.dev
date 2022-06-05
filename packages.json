@@ -8,6 +8,11 @@
         "package": "wildrwolf",
         "url": "https://github.com/s3alfisc/wildrwolf"
     },
+    
+    {
+        "package": "CRV3J",
+        "url": "https://github.com/s3alfisc/wildrwolf"
+    },
 
     {
         "package": "JuliaConnectoR.utils",
