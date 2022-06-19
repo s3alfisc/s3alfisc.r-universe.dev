@@ -10,11 +10,6 @@
     },
     
     {
-        "package": "CRV3J",
-        "url": "https://github.com/s3alfisc/CRV3J"
-    },
-    
-    {
         "package": "summclust",
         "url": "https://github.com/s3alfisc/summclust"
     },
