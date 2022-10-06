@@ -3,17 +3,22 @@
         "package": "fwildclusterboot",
         "url": "https://github.com/s3alfisc/fwildclusterboot"
     },
-    
+     
+    {
+        "package": "summclust",
+        "url": "https://github.com/s3alfisc/summclust"
+    },
+
     {
         "package": "wildrwolf",
         "url": "https://github.com/s3alfisc/wildrwolf"
     },
     
     {
-        "package": "summclust",
-        "url": "https://github.com/s3alfisc/summclust"
+        "package": "wildwyoung",
+        "url": "https://github.com/s3alfisc/wildwyoung"
     },
-
+    
     {
         "package": "JuliaConnectoR.utils",
         "url": "https://github.com/s3alfisc/JuliaConnectoR.utils"
